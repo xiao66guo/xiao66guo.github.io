@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://zuoandroid.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: Sasuke
+subtitle: "不忘初心 方得始终"
+description: "Sasuke的个人博客"
+keywords: Sasuke, Wen Bin, Python, Spider
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: WenBin
+# organization: zkh360.com
+# organization_url: http://www.zkh360.com
+github_username: zuoandroid
+location: BeiJing, China
+email: wenbin@gmail.com
 
 # ---------------- #
 #    Navigation    #
