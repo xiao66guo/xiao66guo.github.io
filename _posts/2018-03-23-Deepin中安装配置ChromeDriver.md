@@ -57,6 +57,8 @@ Flash：	29.0.0.113 /home/wenbin/.config/google-chrome/PepperFlash/29.0.0.113/li
 | v2.6           |   v29-32    |
 | v2.5           |   v29-32    |
 | v2.4           |   v29-32    |
+
+
 ###下载对应的Chromedriver版本
 下载地址：
 ```
