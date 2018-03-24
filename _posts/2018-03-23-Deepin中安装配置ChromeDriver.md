@@ -64,6 +64,7 @@ Flash：	29.0.0.113 /home/wenbin/.config/google-chrome/PepperFlash/29.0.0.113/li
 ```
 http://npm.taobao.org/mirrors/chromedriver/
 ```
+
 ### 配置
 将下载来的ChromeDriver解压，得到一个ChromeDriver文件
 我们只需要将ChromeDriver文件放到``/uer/bin/``路径下
@@ -79,4 +80,4 @@ driver = webdriver.Chrome()
 driver.get("https://www.baidu.com")
 ```
 运行之后，如果能过弹出Chrome页面，就说明安装成功：
-![](../images/Chrome.png)
+![](https://zuoandroid.github.io/images/Chrome.png)
