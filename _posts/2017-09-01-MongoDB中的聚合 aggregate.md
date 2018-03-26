@@ -1,4 +1,11 @@
-﻿- 聚合(aggregate)主要用于计算数据，类似sql中的sum(),avg()。
+---
+layout: post
+title: MongoDB中的聚合 aggregate
+categories: MongoDB
+description: MongoDB中的聚合 aggregate
+keywords: MongoDB
+---
+聚合(aggregate)主要用于计算数据，类似sql中的sum(),avg()。
 
   ```
   db.集合名称.aggregate({管道:{表达式}})
