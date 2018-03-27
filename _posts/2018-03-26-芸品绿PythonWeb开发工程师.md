@@ -69,7 +69,6 @@ if __name__ == '__main__':
     print func3(AList)  
     print func4(AList)
 ```
-
 #### 3.选出一下表达式表述正确的选项：
 
 ```
