@@ -5,6 +5,7 @@ categories: 面试题
 description: 金桔小店-PythonWeb开发工程师
 keywords: 面试题
 ---
+
 #### 1. 有如下一段代码：（类继承）
 ```python
 class A(object):
