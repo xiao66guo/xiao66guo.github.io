@@ -10,6 +10,7 @@ permalink: /about/
 
 iOS、Python Technical Develop Engineer。
 
+Never give up on yourself, keep on going until you succeed!
 永远都不要放弃自己，勇往直前，直至成功！
 
 「 Sasuke 」粉丝☺
