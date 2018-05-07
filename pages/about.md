@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-Python、iOS程序员。
+iOS、Python Technical Develop Engineer。
 
 永远都不要放弃自己，勇往直前，直至成功！
 
