@@ -2,15 +2,15 @@
 layout: page
 title: About
 description: 不忘初心，方得始终
-keywords: Wen Bin, Sasuke
+keywords: xiao 66 guo Bin, Sirius
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-Python程序员。
+Python、iOS程序员。
 
-业精于勤荒于嬉。
+永远都不要放弃自己，勇往直前，直至成功！
 
 「朴树」「李志」忠实粉丝。
 
